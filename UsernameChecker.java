@@ -1,5 +1,5 @@
 import java.util.*;
-
+    
 public class UsernameChecker {
     // O(1) lookup: maps username to userId
     private final Map<String, Integer> usernames = new HashMap<>();
